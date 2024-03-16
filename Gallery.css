@@ -23,6 +23,7 @@ margin-left: 350px;
 body{
     background-image: url(as.jpg) ;
     background-size: cover;
+    background-color: #000;
 }
 .pop{
     position: fixed;
